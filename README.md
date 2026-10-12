@@ -343,7 +343,7 @@ MIT
 
 ---
 
-Bu rehber, haber ve e-ticaret platformları geliştiren [Alesta WEB](https://alestaweb.com/e-ticaret-yazilimi)
+Bu rehber, haber ve e-ticaret platformları geliştiren [Alesta WEB](https://alestaweb.com/web-yazilim-hizmetleri)
 tarafından derlenmiştir.
 
 Son güncelleme: 2026-10-12 (cayma hakkı bölümü 2026 değişikliklerine göre güncellendi)
